@@ -1,0 +1,17 @@
+{
+  "name": "myrestapp",
+  "version": "1.0.0",
+  "description": "MyRESTFulApp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jsyadav",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jwt-simple": "^0.2.0",
+    "morgan": "^1.8.1"
+  }
+}
